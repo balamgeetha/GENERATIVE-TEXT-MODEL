@@ -40,3 +40,5 @@ CUDA: Optional GPU acceleration support to speed up training and inference**
 
 
 **OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/b677473e-6eca-489f-a8ca-5e7c328e937d)
